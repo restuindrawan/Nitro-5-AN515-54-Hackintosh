@@ -7,8 +7,8 @@
 ![](Images/display.png)
 ![](Images/network.png)
 ![](Images/touchpad.png)
-![](Images/output.png)
 ![](Images/cjack.png)
+![](Images/output.png)
 
 ## My System
 - Intel® Core™ i7-9750H
