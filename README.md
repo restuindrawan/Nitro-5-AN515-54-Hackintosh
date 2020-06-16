@@ -2,10 +2,10 @@
 
 #### Supports MacOS 10.15.x
 
-[(Images/info.png)]
-[(Images/display.png)]
-[(Images/touchpad.png)]
-[(Images/cjack.png)]
+![](Images/info.png)
+![](Images/display.png)
+![](Images/touchpad.png)
+![](Images/cjack.png)
 
 ## My System
 - Intel® Core™ i7-9750H
