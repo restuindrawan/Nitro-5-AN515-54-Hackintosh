@@ -2,10 +2,10 @@
 
 #### Supports MacOS 10.15.x
 
-[![info](https://www.dropbox.com/s/kenwy38ovcul8fw/info.png)]
-[![info](https://www.dropbox.com/s/9ytklbl6q3qibxs/display.png)]
-[![info](https://www.dropbox.com/s/nb5r3e3r8l8816m/touchpad.png)]
-[![info](https://www.dropbox.com/s/atusfk523v77w9b/cjack.png)]
+[![info](Images/info.png)]
+[![info](Images/display.png)]
+[![info](Images/touchpad.png)]
+[![info](Images/cjack.png)]
 
 ## My System
 - Intel® Core™ i7-9750H
