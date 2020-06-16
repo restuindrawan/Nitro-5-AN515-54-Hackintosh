@@ -3,8 +3,11 @@
 #### Supports MacOS 10.15.x
 
 ![](Images/info.png)
+![](Images/update.png)
 ![](Images/display.png)
+![](Images/network.png)
 ![](Images/touchpad.png)
+![](Images/output.png)
 ![](Images/cjack.png)
 
 ## My System
