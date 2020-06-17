@@ -42,7 +42,7 @@
 - [x] WebCam
 - [x] Usb 3.1 & Type C (Mapped USB)
 - [x] WiFi & Bluetooth by using Broadcom DW1820A (Mine Requiring some Pin Shield)
-![](Images/DW1820A_Cover_pins.jpg)
+- ![](Images/DW1820A_Cover_pins.jpg)
 - [x] Native hotkey support with Fn keys
 - [x] Touchpad and gestures
 - [x] System Update
