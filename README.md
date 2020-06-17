@@ -13,7 +13,7 @@
 ## My System
 - Intel® Core™ i7-9750H
 - Intel® UHD Graphics 630 & Nvidia GeForce® GTX 1650
-- LG 15,6" 144Hz IPS Panel
+- LG 1920x1080 15,6" 144Hz IPS Panel
 - Broadcom DW1820A (Originally ship with Intel® Wi-Fi 6 AX200)
 - 16gb 2666mHz of DDR4 RAM
 - Samsung EVO 860 256gb M.2 (Originally ship with Micron 2200 256gb PCIe® NVMe™)
