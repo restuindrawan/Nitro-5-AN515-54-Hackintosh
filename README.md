@@ -1,6 +1,6 @@
 # Acer Nitro 5 AN515-54 Hackintosh
 
-#### Supports MacOS 10.15.x
+#### Supports MacOS 10.15.x ~ 11.0.x
 
 ![](Images/info.png)
 ![](Images/update.png)
@@ -8,7 +8,9 @@
 ![](Images/network.png)
 ![](Images/touchpad.png)
 ![](Images/cjack.png)
-![](Images/output.png)
+![](Images/sound.png)
+![](Images/neofetch.png)
+![](Images/storage.png)
 
 ## My System
 - Intel® Core™ i7-9750H
@@ -19,11 +21,12 @@
 - Samsung EVO 860 256gb M.2 (Originally ship with Micron 2200 256gb PCIe® NVMe™)
 - Realtek HD Audio ALC255
 - ELAN 0504 Touchpad
-- BIOS Version 1.30
+- BIOS Version 1.32
 
 ## Important Note
 - THIS IS ILLEGAL USE IN PERSONAL ONLY!!!
 - DWYOR!!!
+- Enjoy it while we still can do this
 - Set SATA mode to AHCI (Use CTRL+S in BIOS to unhide SATA Mode menu)
 - Disable Secure Boot
 - Generate new SMBIOS (https://github.com/corpnewt/GenSMBIOS)
@@ -50,7 +53,7 @@
 ## Not Working:
 - HDMI due to Nvidia Optimus
 - Nvidia GeForce® GTX 1650 (No Hope....)
-- Intel® Wi-Fi 6 AX200 (Work in Progress) (https://github.com/zxystd/itlwm)
+- Intel® Wi-Fi 6 AX200 (Work in Progress) (https://github.com/OpenIntelWireless)
 - Micron 2200 256gb PCIe® NVMe™ (Incompatible) to disable use "nvme=-1" boot-argument
 
 ## Credits
