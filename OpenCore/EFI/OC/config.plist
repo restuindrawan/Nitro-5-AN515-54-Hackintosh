@@ -331,8 +331,6 @@
 				<string>Audio device</string>
 				<key>layout-id</key>
 				<data>HwAAAA==</data>
-				<key>alc-delay</key>
-				<integer>3000</integer>
 				<key>model</key>
 				<string>Realtek High Definition Audio ALC255</string>
 			</dict>
