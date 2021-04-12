@@ -2,7 +2,7 @@
 
 #### Supports MacOS 10.15.x ~ 11.x.x
 
-![Screen Shot 2021-04-12 at 4 51 57 PM](https://user-images.githubusercontent.com/57904667/114368241-cadd1280-9baf-11eb-9be4-839b52d01014.png)
+![Screen Shot 2021-04-12 at 10 12 52 PM](https://user-images.githubusercontent.com/57904667/114408781-5a001f80-9bdc-11eb-8406-87852d82b836.png)
 ![Screen Shot 2021-04-12 at 4 52 27 PM](https://user-images.githubusercontent.com/57904667/114368362-f19b4900-9baf-11eb-8f0d-21f47563bd67.png)
 ![Screen Shot 2021-04-12 at 4 52 41 PM](https://user-images.githubusercontent.com/57904667/114368395-f65ffd00-9baf-11eb-9a1a-e5d6439a76fe.png)
 ![Screen Shot 2021-04-12 at 4 53 01 PM](https://user-images.githubusercontent.com/57904667/114368443-ffe96500-9baf-11eb-8f00-cc21bfee5c39.png)
