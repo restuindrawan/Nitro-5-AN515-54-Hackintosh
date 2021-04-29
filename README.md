@@ -3,14 +3,6 @@
 #### Supports MacOS 10.15.x ~ 11.x.x
 
 ![Screen Shot 2021-04-12 at 10 12 52 PM](https://user-images.githubusercontent.com/57904667/114408781-5a001f80-9bdc-11eb-8406-87852d82b836.png)
-![Screen Shot 2021-04-12 at 4 52 27 PM](https://user-images.githubusercontent.com/57904667/114368362-f19b4900-9baf-11eb-8f0d-21f47563bd67.png)
-![Screen Shot 2021-04-12 at 4 52 41 PM](https://user-images.githubusercontent.com/57904667/114368395-f65ffd00-9baf-11eb-9a1a-e5d6439a76fe.png)
-![Screen Shot 2021-04-12 at 4 53 01 PM](https://user-images.githubusercontent.com/57904667/114368443-ffe96500-9baf-11eb-8f00-cc21bfee5c39.png)
-![Screen Shot 2021-04-12 at 4 53 21 PM](https://user-images.githubusercontent.com/57904667/114368454-02e45580-9bb0-11eb-81de-6242a4ea22a5.png)
-![Screen Shot 2021-04-12 at 4 53 31 PM](https://user-images.githubusercontent.com/57904667/114368480-05df4600-9bb0-11eb-8fa0-fb9378e129aa.png)
-![Screen Shot 2021-04-12 at 4 53 49 PM](https://user-images.githubusercontent.com/57904667/114368589-214a5100-9bb0-11eb-94cc-5f063342708c.png)
-![Screen Shot 2021-04-12 at 4 54 29 PM](https://user-images.githubusercontent.com/57904667/114368607-25766e80-9bb0-11eb-84a3-5f15b094bf41.png)
-![Screen Shot 2021-04-12 at 4 54 34 PM](https://user-images.githubusercontent.com/57904667/114368624-27d8c880-9bb0-11eb-9aaf-4bc1480fd8fd.png)
 
 ## My System
 - Intel® Core™ i7-9750H
